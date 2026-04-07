@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class JavaBasic8{
     public static void  main(String arg[]){
         Scanner sc = new Scanner(System.in);
+        sc.close();
+        
         int a = sc.nextInt();
         int b = sc.nextInt();
         int sum =a+b;

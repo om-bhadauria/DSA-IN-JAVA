@@ -5,6 +5,7 @@ import java.util.*;
 public class JavaBasic7 {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
+        sc.close();
        // String input = sc.next(); 
        // System.out.println(input);  
        /*here we only use the sc,next that why they give only one sentence not the whole line  */
