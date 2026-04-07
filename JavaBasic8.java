@@ -5,8 +5,15 @@ import java.util.Scanner;
 public class JavaBasic8{
     public static void  main(String arg[]){
         Scanner sc = new Scanner(System.in);
-        sc.close();
+        sc.close(); 
+        /*
+        why we use sc.close(); ?
+        1)prevents resource leaks
+        2)avoiding file/system locking issues
+        3)shows disciplane
+        */
         
+
         int a = sc.nextInt();
         int b = sc.nextInt();
         int sum =a+b;
