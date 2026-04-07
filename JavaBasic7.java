@@ -14,7 +14,7 @@ public class JavaBasic7 {
         //System.out.println(om);
 
         int number =sc.nextInt();
-        System.out.println(number);
+        System.out.println(number); 
 
         float price = sc.nextFloat();
         System.out.println(price);
@@ -24,9 +24,7 @@ public class JavaBasic7 {
         sc.nextByte()
         sc.nextShort()
         sc.nextLong()
-        sc.nextBollean
-        v
-        
+        sc.nextBollean()
         */
     }
     
