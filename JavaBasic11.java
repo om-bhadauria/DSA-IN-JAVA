@@ -24,5 +24,8 @@ public class JavaBasic11 {
         
         float number =sc.nextInt();
         System.out.println(number);
+
+    
     }
+
 }
