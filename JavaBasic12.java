@@ -34,5 +34,7 @@ public class JavaBasic12 {
 
        // they contains seroes in the char value like a is 97 then b ia 98 and c is 99 , d is 100 and continue.
        
+
+       // this is all about type casting 
     }
 }
