@@ -32,7 +32,7 @@ public class JavaBasic12 {
        //System.out.println(number);
        //System.out.println(number2);
 
-       // they contains nymbers in the char value like a is 97 then b ia 98 and c is 99 , d is 100 and continue.
+       // they contains numbers in the char value like a is 97 then b ia 98 and c is 99 , d is 100 and continue.
        
 
        // this is all about type casting 
