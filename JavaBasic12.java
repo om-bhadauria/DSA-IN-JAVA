@@ -16,6 +16,7 @@ import java.util.*;
 public class JavaBasic12 {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
+        sc.close();
 
        // float a=20.14f;
        // int b =a;
