@@ -15,13 +15,18 @@ public class Question3 {
 
         float pen =sc.nextFloat();
         System.out.println("enter the cost of the pen :" +pen);
+
         float pencil = sc.nextFloat();
         System.out.println("enter the cost of the pencil :" + pencil );
+
         float eraser = sc .nextFloat();
         System.out.println("enter the cost of the eraser :" + eraser);
 
+
         float total = pen + pencil + eraser;
         System.out.println("the total cost of the items is :" + total);
+        
+        //add gst tax to the bill
         
         float gst = (total * 18) / 100;
         System.out.println("the gst tax is :" + gst);
