@@ -14,7 +14,7 @@ public class Question2 {
         int area = side*side;
         System.out.println("AREA OF THE SQUARE = " + area);
 
-         sc.close();
+        sc.close();
 
 }
 }

@@ -21,5 +21,6 @@ public class Question1 {
         System.out.println("AVERAGE OF A,B,C ="+ average);
 
         sc.close();
+        
         }
 }
