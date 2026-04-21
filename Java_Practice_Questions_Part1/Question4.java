@@ -1,3 +1,4 @@
+package Java_Practice_Questions_Part1;
 /*
 Question 4)What will be the type of result in thefollowing Java code?
            byte b= 4;

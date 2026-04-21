@@ -1,3 +1,4 @@
+package Java_Practice_Questions_Part1;
 /*
 Question 5)Will the following statementgive any error in Java?       (Advanced)
                            int$=24;

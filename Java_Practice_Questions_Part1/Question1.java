@@ -1,6 +1,6 @@
 // QUESTION 1)IN A PPROGRAM , INPUT 3 NUMBER : A,B,C .YOU HAVE TO OUTPUT THE AVERAGE OF THESE 3 NUMBERS. 
 
-package Java_Practice_Questions;
+package Java_Practice_Questions_Part1;
 
 import java.util.*;
 
