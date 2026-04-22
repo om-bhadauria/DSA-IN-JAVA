@@ -1,4 +1,4 @@
-/*                               Binary Arithmetic Operators(2 operands)
+/*Binary Arithmetic Operators(2 operands)
 i)Addition Operator(+) 
 */
   
