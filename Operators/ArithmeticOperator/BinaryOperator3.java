@@ -5,7 +5,7 @@ i)Multiplication Operator(*)
 // USING SCANNER CLASS TO TAKE INPUT FROM THE USER
 package Operators.ArithmeticOperator;
 import java.util.*;
-public class Operator4 {
+public class BinaryOperator3 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the first number:");

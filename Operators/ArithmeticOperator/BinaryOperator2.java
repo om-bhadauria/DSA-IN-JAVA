@@ -7,7 +7,7 @@ i)Subtraction Operator(-)
 
 package Operators.ArithmeticOperator;
 import java.util.Scanner;
-public class Operator3 {
+public class BinaryOperator2 {
     public static void main (String[] args){
     Scanner sc = new Scanner(System.in);
     System.out.println("enter the first number:"); 
