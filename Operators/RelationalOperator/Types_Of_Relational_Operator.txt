@@ -1,0 +1,11 @@
+->RELATIONAL OPERATOR also known as "COMPARISON OPERATOR" are used to compare two values(or variables).
+->This is important in programming, because it helps us to find answer and make decision
+
+TYPES OF RELATIONAL OPERATOR
+
+1. EQUAL TO  (==)
+2. NOT EQUAL TO (!=)
+3. GREATER THAN (>)
+4. LESS THAN (<)
+5. GREATER THAN OR EQUAL TO (>=)
+6. LESS THAN OR EQUAL TO (<=)
