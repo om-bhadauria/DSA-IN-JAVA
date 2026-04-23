@@ -21,3 +21,14 @@ public class UnaryOperator1B{
         sc.close();
     }
 }
+
+/*USING DIRECTLY
+package Operators.ArithmeticOperator;
+public class UnaryOperator1B{
+    public static void main (String[] args){
+        int a = 10;
+        int b = a++;                // post increment
+        System.out.println("the result is :" + b);
+    }
+ }  
+*/
