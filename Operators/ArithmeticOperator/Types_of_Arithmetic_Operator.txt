@@ -11,5 +11,41 @@ v)Modulus Operator(%) : they give the reminder of the division operation for eg)
 
 
 b) Unary Arithmetic Operators(1 operand)
+
+i)Increment(++) : (a) pre increment:  ++a 
+                  (b) post increment: a++
+ii)Decrement(--): (a) pre decrement:  --a 
+                  (b) post decrement: a--
+
+NOTE NUMBER 01
+->IN THE PRE INCREMENT OR PRE DECREMENT
+i)First we change the value
+ii)Second we use the value 
+
+For eg;
+PRE-INCREMENT                       PRE-DECREMENT
+int a=10;                           int a=10;
+int b=++a;                          int b=--a;
+System.out.println(a);              System.out.println(a);
+System.out.println(b);              System.out.println(b);
+
+OUTPUT: 11                          OUTPUT:9
+        11                                 9
+
+NOTE NUMBER 02
+->IN THE POST INCREMENT OR POST DECREMENT
+i)First we use the value
+ii)Second we change the value 
+
+For eg;
+POST-INCREMENT                      POST-DECREMENT
+int a=10;                           int a=10;
+int b=a++;                          int b=a--;
+System.out.println(a);              System.out.println(a);
+System.out.println(b);              System.out.println(b);
+
+OUTPUT: 11                         OUTPUT:9
+        10                                10
+        
 c) Ternary Arithmetic Operators(3 operands)
 */
