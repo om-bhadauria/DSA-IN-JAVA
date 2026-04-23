@@ -1,5 +1,5 @@
 /*Binary Arithmetic Operators(2 operands)
-i)Subtraction Operator(-) 
+ii)Subtraction Operator(-) 
 */
   
 
@@ -21,6 +21,7 @@ public class BinaryOperator2 {
 }
 
 /* USING DIRECTLY
+
 package Operators.ArithmeticOperator;
 public class Operator3 {
     public static void main (String[] args){

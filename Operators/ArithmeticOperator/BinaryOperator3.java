@@ -1,5 +1,5 @@
 /* Binary Arithmetic Operators(2 operands)
-i)Multiplication Operator(*)   
+iii)Multiplication Operator(*)   
  */
 
 // USING SCANNER CLASS TO TAKE INPUT FROM THE USER
@@ -18,8 +18,9 @@ public class BinaryOperator3 {
     }
 }
 
-// USING DIRECTLY
-/*
+
+/*USING DIRECTLY
+
 package Operators.ArithmeticOperator;
 public class Operator4{
 public class static void main(string[] args){
