@@ -92,5 +92,5 @@ public class Operator1{
         System.out.println("The result of the logical AND operation is: " + result);
     }
 }
-    
+
 */
