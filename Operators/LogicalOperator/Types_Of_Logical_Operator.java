@@ -26,6 +26,11 @@ TRUE  |  FALSE  |  TRUE    |
 TRUE  |  TRUE   |  FALSE   |
 FALSE |  FALSE  |  FALSE   |
 
-C)LOGICAL NOT (!)
+C)LOGICAL NOT (!):
+->The logical NOT operator (!) is a unary operator that negates the value of a boolean expression.
+for example:
+result|statement|
+TRUE  |  FALSE  |  
+FALSE |  TRUE   |
 
 */
