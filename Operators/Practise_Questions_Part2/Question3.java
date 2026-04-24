@@ -1,10 +1,10 @@
-//QUESTION-NUMBER-2: WHAT WILL BE THE OUTPUT OF THIS PROGRAM?
+//QUESTION-NUMBER-3: WHAT WILL BE THE OUTPUT OF THIS PROGRAM?
 
 package Operators.Practise_Questions_Part2;
-public class Question2 {
+public class Question3{
     public static void main(String[] args){
-        int x,y,z;
-        x=y=z=2;
+        int x , y , z;
+        x = y = z = 2;
 
         x += y;
         y -= z;
