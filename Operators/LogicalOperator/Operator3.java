@@ -1,5 +1,2 @@
-package Operators.LogicalOperator;
-
-public class Operator3 {
-    
-}
+//LOGICAL NOT OPERATOR(!)
+//USING SCANNER CLASS TO TAKE INPUT FROM THE USER
