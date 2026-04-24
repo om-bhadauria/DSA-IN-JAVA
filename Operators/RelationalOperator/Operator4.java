@@ -6,7 +6,7 @@ iv) Less than (<) :
 
 //USING SCANNER CLASS TO TAKE INPUT FROM THE USER
 
-package Operators.B_RelationalOperator;
+package Operators.RelationalOperator;
 import java.util.*; 
 public class Operator4 {
     public static void main(String[] args){
