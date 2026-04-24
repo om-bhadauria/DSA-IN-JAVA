@@ -6,16 +6,26 @@
 ->used to combine multiple conditions
 
 
-->TYPES OF LOGICAL OPERATORS
+->TYPES OF LOGICAL OPERATORS:
+
 A)LOGICAL AND (&&):
 ->The logical AND operator (&&) returns true if both operands are true; otherwise, it returns false.    
 for example: 
 result|statemnt1|statement2|
- TRUE |  TRUE   |  TRUE    | 
+TRUE  |  TRUE   |  TRUE    | 
 FALSE |  FALSE  |  TRUE    | 
 FALSE |  TRUE   |  FALSE   |
 FALSE |  FALSE  |  FALSE   |
-B)LOGICAL OR (||)
+
+B)LOGICAL OR (||):
+->The logical OR operator (||) returns true if at least one of the operands is true; otherwise, it returns false.
+for example:
+result|statemnt1|statement2|
+TRUE  |  TRUE   |  TRUE    | 
+TRUE  |  FALSE  |  TRUE    | 
+TRUE  |  TRUE   |  FALSE   |
+FALSE |  FALSE  |  FALSE   |
+
 C)LOGICAL NOT (!)
 
 */

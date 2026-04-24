@@ -1,11 +1,10 @@
-/*LOGICAL AND:
--> The logical AND operator (&&) returns true if both operands are true; otherwise, it returns false. 
-*/
+/*LOGICAL AND OPERATOR */
 
 //USING SCANNER CLASS TO TAKE INPUT FROM THE USER
 
-/*METHOD-NUMBER-1*/
+//METHOD-NUMBER-1
 
+/* 
 package Operators.LogicalOperator;
 import java.util.*;
 public class Operator1{
@@ -20,8 +19,9 @@ public class Operator1{
         sc.close();
     }
 }
+*/
 
-/*METHOD-NUMBER-2*/
+//METHOD-NUMBER-2
 
 package Operators.LogicalOperator;
 
@@ -77,10 +77,12 @@ public class Operator1 {
         System.out.println("Result of first condition: " + result1);
         System.out.println("Result of second condition: " + result2);
         System.out.println("Final result: " + finalResult);
+        sc.close();
     }
 }
 
 /*USING DIRECTLY
+
 package Operators.LogicalOperator;
 public class Operator1{
     public static void main(String[] args){
@@ -90,3 +92,5 @@ public class Operator1{
         System.out.println("The result of the logical AND operation is: " + result);
     }
 }
+    
+*/
