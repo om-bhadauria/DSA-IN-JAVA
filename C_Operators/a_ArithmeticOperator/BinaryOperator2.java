@@ -5,7 +5,7 @@ ii)Subtraction Operator(-)
 
 // USING SCANNER CLASS TO TAKE INPUT FROM THE USER
 
-package C_Operators.ArithmeticOperator;
+package C_Operators.a_ArithmeticOperator;
 import java.util.Scanner;
 public class BinaryOperator2 {
     public static void main (String[] args){
