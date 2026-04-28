@@ -1,6 +1,6 @@
 package C_Operators.a_ArithmeticOperator;
 
-public class TarnaryOperator {
+public class TarnaryOperator2 {
     public static void main(String[] args){
         int number =40;
 
