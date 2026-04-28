@@ -10,8 +10,7 @@ public class TarnaryOperator1 {
 
         String num = (marks>=33)? "pass" :"fail";
         System.out.println("the result is "+ num);
-        
-
+        sc.close();
     }
     
 }
