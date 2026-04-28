@@ -9,7 +9,7 @@ public class Statement6 {
         int num1 = sc.nextInt();
         System.out.print("ENTER THE SECONF NUMBER:");
         int num2 =sc.nextInt();
-        double calculator =sc.nextDouble();
+        int calculator =sc.nextInt();
 
         switch(calculator){
             case 1: System.out.println(num1 + num2);
