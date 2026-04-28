@@ -14,6 +14,7 @@ public class Statement5 {
             break;
             default : System.out.println("invalid button");
         }
+        sc.close();
     }
     
 }
