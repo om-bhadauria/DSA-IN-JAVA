@@ -1,7 +1,8 @@
 //QUESTION 2) IN A PROGRAM, INPUT THE SIDE OF THE SQUARE . YOUI HAVE TO OUTPUT THE AREA OF THE SQUARE.
 // HINT(AREA OF SQUARE = SIDE * SIDE)
 
-package B_Java_Practice_Questions_Part1;
+package Practice_Questions;
+
 
 import java.util.*;
 public class Question2 {
