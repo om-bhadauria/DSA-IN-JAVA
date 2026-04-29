@@ -5,7 +5,7 @@ v) Modulus Operator(%) :
  */
 
 //USING SCANNER CLASS TO TAKE INPUT FROM THE USER
-package C_Operators.a_ArithmeticOperator;
+package B_Operators.a_ArithmeticOperator;
 import java.util.*;
 public class BinaryOperator5{
     public static void main (String[] args){

@@ -1,6 +1,6 @@
 //QUESTION-NUMBER-2: WHAT WILL BE THE OUTPUT OF THIS PROGRAM?
 
-package C_Operators.f_Practise_Questions_Part2;
+package B_Operators.f_Practise_Questions_Part2;
 public class Question2 {
     public static void main(String[] args){
         int x = 200, y = 50, z = 100;

@@ -23,7 +23,7 @@ public class Operator1{
 
 //METHOD-NUMBER-2
 
-package C_Operators.c_LogicalOperator;
+package B_Operators.c_LogicalOperator;
 
 import java.util.Scanner;
 

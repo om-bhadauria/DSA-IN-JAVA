@@ -21,7 +21,7 @@ public class Operator3{
 
 //METHOD-NUMBER-2
 
-package C_Operators.c_LogicalOperator;
+package B_Operators.c_LogicalOperator;
 import java.util.*;
 public class Operator3{
 

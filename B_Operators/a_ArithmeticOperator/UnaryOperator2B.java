@@ -8,7 +8,7 @@ ii) Decrement Operator(--) :
                         
 //USING SCANNER CLASS TO TAKE INPUT FROM THE USER
 
-package C_Operators.a_ArithmeticOperator;
+package B_Operators.a_ArithmeticOperator;
 import java.util.*;
 public class UnaryOperator2B{
     public static void main (String[] args){

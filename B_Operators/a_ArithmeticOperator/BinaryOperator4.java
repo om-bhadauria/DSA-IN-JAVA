@@ -14,7 +14,7 @@ performing a division operation.
 
 
 //USING SCANNER CLASS TO TAKE INPUT FROM USER
-package C_Operators.a_ArithmeticOperator;
+package B_Operators.a_ArithmeticOperator;
 
 import java.util.*;
 public class BinaryOperator4 {
