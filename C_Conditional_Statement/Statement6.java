@@ -1,6 +1,6 @@
 // make a calculator using switch : +,-,*,/,%
 
-package D_Conditional_Statement;
+package C_Conditional_Statement;
 import java.util.*;
 public class Statement6 {
     public static void main(String[] args){

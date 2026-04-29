@@ -2,7 +2,7 @@
 
 //USING SCANNER CLASS TO TAKE INPUT FROM THE USER
 
-package D_Conditional_Statement;
+package C_Conditional_Statement;
 import java.util.*;
 public class Statement1 {
     public static void main(String[] args){

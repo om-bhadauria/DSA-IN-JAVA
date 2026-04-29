@@ -1,5 +1,5 @@
 //QUESTION-NUMBER-4: PRINT THE LARGEST OF THREE NUMBERS USING ELSE-IF STATEMENT.
-package D_Conditional_Statement;
+package C_Conditional_Statement;
 import java.util.*;
 public class Statement4 {
     public static void main(String[] args){

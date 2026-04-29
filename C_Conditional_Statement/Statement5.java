@@ -1,4 +1,4 @@
-package D_Conditional_Statement;
+package C_Conditional_Statement;
 import java.util.*;
 public class Statement5 {
     public static void main(String[] args){

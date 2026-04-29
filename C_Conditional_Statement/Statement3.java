@@ -3,7 +3,7 @@
     CASE2: 5L TO 10L THEN 20% TAX
     CASE3: ABOVE 10L THEN 30% TAX
 */
-package D_Conditional_Statement;
+package C_Conditional_Statement;
 import java.util.*;
 public class Statement3 {
     public static void main(String[] args){
