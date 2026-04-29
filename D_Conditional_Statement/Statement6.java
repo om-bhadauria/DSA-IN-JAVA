@@ -24,6 +24,7 @@ public class Statement6 {
             break;
             default : System.out.println("invalid number");
         }
+        sc.close();
     }
     
 }
