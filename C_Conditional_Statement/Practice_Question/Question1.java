@@ -13,5 +13,6 @@ public class Question1{
         } else {
             System.out.println("NEGATIVE NUMBER");
         }
+        sc.close();
     }
 }
