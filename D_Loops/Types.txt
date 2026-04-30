@@ -14,3 +14,14 @@ while(counter <100){
     System.out.println("hello world");
     counter++;
 }
+
+(2) For loops :
+-> they run if the codition is true 
+for(intilization; condition;updation){
+    //do something
+}
+
+for eg) 
+for(int i =1 ; i<=10 ; i++){
+    System.out.println("hello world")
+}

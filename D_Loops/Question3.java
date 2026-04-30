@@ -1,6 +1,6 @@
 //Print sum of first n natural number 
 
-package D_Loops;
+
 import java.util.*;
 public class Question3 {
     public static void main(String[] args){

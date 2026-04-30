@@ -1,5 +1,5 @@
 //print the number from 1 to n
-package D_Loops;
+
 import java.util.*;
 public class Question2 {
     public static void main(String[] args){
