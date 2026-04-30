@@ -1,0 +1,16 @@
+#Loops: loops can be defined as the repeatation of work until they user end it.
+
+TYPES OF LOOPS:
+
+(1) While loops :
+-> they run till the condition is right 
+while(Condition){
+    //do something;
+}
+
+for eg) print 'hello world' for 100 times
+int counter =0;
+while(counter <100){
+    System.out.println("hello world");
+    counter++;
+}
