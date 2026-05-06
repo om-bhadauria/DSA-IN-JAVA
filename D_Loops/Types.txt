@@ -71,3 +71,6 @@ output:
 2
 4
 5
+
+
+Nested loops:  in the loop there is another loops that menas we can  call him a nested loops.
