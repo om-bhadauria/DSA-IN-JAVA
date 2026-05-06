@@ -7,7 +7,7 @@ public class Number5 {
             System.out.println("i is " + i);
         }
 
-        System.out.println("i after the loop = " + i);
+      //  System.out.println("i after the loop = " + i);
     }
 }
 
