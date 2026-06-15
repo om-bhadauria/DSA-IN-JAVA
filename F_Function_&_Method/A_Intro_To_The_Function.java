@@ -9,7 +9,7 @@ returnType name(){
 }
 */
 
-public class A_Intro_To_The_Function {
+public class A_Intro_to_The_Function {
     public static void printhelloworld(){
         System.out.println("Hello World");
     }
