@@ -1,0 +1,6 @@
+*FUNCTION OVERLOADING 
+-> Multiple function with same name but different parameter 
+(1) changes the types of parameter 
+(2) changes the no.pf parameter 
+
+-> Does not depend on return type 

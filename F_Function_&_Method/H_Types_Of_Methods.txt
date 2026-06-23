@@ -1,0 +1,4 @@
+ methods arte two types 
+
+ 1 : user defined -> the methods that return by the programmer ; for eg: factorial,sum,product .
+ 2 : in-build -> that method already present ; for eg: MATH(power,sqrt,max,min) , 
