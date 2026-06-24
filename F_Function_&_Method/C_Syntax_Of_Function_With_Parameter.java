@@ -14,8 +14,8 @@ public class C_Syntax_Of_Function_With_Parameter {
         int b= sc.nextInt();
         int sum =CalculateSum(a,b); //(a,b) are arguments or actual parameter.
         System.out.println("the sum is : " + sum);
-    }
-        
+     
+    } 
 }
 
 /*
