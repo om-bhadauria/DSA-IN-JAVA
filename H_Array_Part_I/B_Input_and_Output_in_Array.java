@@ -27,7 +27,7 @@ public class B_Input_and_Output_in_Array {
         System.out.println("Percentage :" +percentage);
 
         //length of array:
-        System.out.println("length of array:"+ marks.length); //here .dot operator represents the length of array 
+        System.out.println("length of array:"+ marks.length);             //here .dot operator represents the length of array 
 
 
     }

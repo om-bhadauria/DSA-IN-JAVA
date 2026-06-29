@@ -25,7 +25,6 @@ public class C_Passing_Array_as_Argument {
             System.out.print(marks[i] + " ");
         }
          
-     System.out.println();
     }
     
 }

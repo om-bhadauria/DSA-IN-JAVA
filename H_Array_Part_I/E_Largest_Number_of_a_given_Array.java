@@ -11,8 +11,8 @@ notes:
 public class E_Largest_Number_of_a_given_Array {
     
     public static int Largest(int Lar_number[] , int Sma_number[]){
-        int largest = Integer.MIN_VALUE; //infity = integer.MIN_VALUE
-        int smallest = Integer.MAX_VALUE; //infity = integer.MAX_VALUE
+        int largest = Integer.MIN_VALUE;      //Negative infity = integer.MIN_VALUE
+        int smallest = Integer.MAX_VALUE;     //Positive infity = integer.MAX_VALUE
         for(int i=0;i<Lar_number.length;i++){
             if(largest<Lar_number[i]){
                 largest = Lar_number[i];

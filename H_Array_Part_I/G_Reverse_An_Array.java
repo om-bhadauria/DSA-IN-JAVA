@@ -21,7 +21,7 @@ public class G_Reverse_An_Array {
          for(int i=0;i<numbers.length;i++){
             System.out.print(numbers[i]+" ");
          }
-         System.out.println();
+      
     }
 
 }
