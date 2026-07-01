@@ -1,0 +1,21 @@
+/*
+SORTING :
+
+--> Sorting is the process of arranging data in a particular format. 
+--> The most common orderings are numerical order and lexicographical order. 
+--> Sorting is important because it makes searching for data more efficient and can improve the performance of 
+    other algorithms that require sorted data.
+
+BASIC ALGORITHMS FOR SORTING :
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Counting Sort(advanced)
+
+*/
+
+package J_Basic_Sorting_Algorithm;
+
+public class What_is_Sorting {
+    
+}
